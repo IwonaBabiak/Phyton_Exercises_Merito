@@ -1,0 +1,11 @@
+# Środowisko wirtualne (wspomniane "venv" / "węby")
+venv/
+.venv/
+env/
+
+# Zmienne środowiskowe (hasła, klucze API)
+.env
+
+# Pliki cache Pythona
+__pycache__/
+*.py[cod]
